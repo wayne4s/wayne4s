@@ -1,4 +1,4 @@
-### :coffee: Hello world, I'm hcysky
+### :coffee: Hello world, I'm wayne4s
 
 <br>
 
@@ -6,7 +6,7 @@
 ### 📈 GitHub Activity Graph:
 
 <!--   green snake -->
-![hcysky's github activity graph](https://raw.githubusercontent.com/hcysky/hcysky/output/github-contribution-grid-snake.svg)
+![wayne4s github activity graph](https://raw.githubusercontent.com/wayne4s/wayne4s/output/github-contribution-grid-snake.svg)
 <!--   stats + languages -->
 
 
