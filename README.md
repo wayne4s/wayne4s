@@ -1,16 +1,17 @@
-## Hi there 👋
+### :coffee: Hello world, I'm hcysky
 
-<!--
-**wayne4s/wayne4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--   green snake -->
+![hcysky's github activity graph](https://raw.githubusercontent.com/hcysky/hcysky/output/github-contribution-grid-snake.svg)
+<!--   stats + languages -->
+
+
+---
+
+*"Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning."*
+
+*- Albert Einstein -*
